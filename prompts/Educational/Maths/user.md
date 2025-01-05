@@ -20,6 +20,8 @@ Create 20 problem solving questions on the topic similar to the ones given as ex
 
 Make sure the questions are progressively more difficult and challenging and expose the student to different styles of thinking.
 
+The questions should be presented in 3-5 sentence problem statements.
+
 Also provide the worked answers at the end of the 20 questions.
 
 ## TOPIC
