@@ -12,7 +12,7 @@ Source location for maintaining all my prompts.
 - [ ] Add prompt engineering tips I pick up in to here.  If needed create a saprate document for it and link it here.
 
 
-# Prompt Resources
+# Resources
 
 ## Prompt catalogues
 - [ChatGPT system prompts](https://github.com/mustvlad/ChatGPT-System-Prompts/blob/main/README.md)
