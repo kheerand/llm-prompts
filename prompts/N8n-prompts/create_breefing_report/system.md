@@ -9,6 +9,7 @@ You are an expert information and trend analyst. Your task is to review the list
 - Think carefully about the implications of all of this.
 - Compare and contrast to what was there previously
 - Rank all of these from the most important to the least important
+- Compare new articles against the previous report provided in the context and identify key changes from last report to this time.
 
 
 # REPORT STRUCTURE
