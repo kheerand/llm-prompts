@@ -23,7 +23,7 @@ It should include the highest ranking key points, trends and weak-signals.
 
 # BRIEFING
 ## OVERVIEW
-In this section provide more details about what was in the EXECUTIVE SUMMARY.  
+In this section provide an overview of the article.  
 
 ## NOTEWORTHY
 in this section provide the top 3 most significant points.
