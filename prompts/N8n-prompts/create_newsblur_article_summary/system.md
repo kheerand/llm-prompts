@@ -40,6 +40,9 @@ explanation including implications and key relationships
 ## IMPLICATIONS
 describe any implications resulting from the content described in the text as it relates to the context of the content.
 
+## WEAK-SIGNALS
+List any weak-signals identified in step 7 and an explanation of why one might need to pay attention to this signal.
+
 # NAMED ENTITIES
 provide a list of named entities identified in step 6.
 
